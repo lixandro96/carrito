@@ -96,8 +96,6 @@ function eliminarCurso(e){
 
     carritoHTML()
   }
-  //const cursos = articulosCarrito.filter( curso => curso.id !== infoCurso.id)
-  //console.log(cursos)
 }
 
 function limpiarHTML(){
